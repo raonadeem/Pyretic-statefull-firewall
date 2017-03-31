@@ -1,7 +1,7 @@
  #########################################################################################
  # SETUP                                                                                           #
  # -------------------------------------------------------------------                             #
- # test:    1) copy firewall-policies.csv in pyretic home and statefull firewall.py in examples    #
+ # test:    1) copy firewall-policies.csv in pyretic home and statefull_firewall.py in examples    #
  #          2) sudo mn  --topo single,3  --controller remote                                       #
  #          3) python pyretic.py pyretic.examples.firewal                                          #
  #          4) On h1 host run  "sudo hping3 -V -S -s 6001 -p 5001 10.0.0.3 -c 1"                   #
