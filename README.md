@@ -4,7 +4,7 @@ Pyretic statefull firewall and DDoS prevention
 Pyretic is both a programmer-friendly domain-specific language embedded in Python and 
 the runtime system that implements programs written in the Pyretic language on network 
 switches.
-This project is an implementation of stateless and statefull fierwall using pyretic and 
+This project is an implementation of stateless and statefull firewall using pyretic and 
 POX controller. Firewall also incorporate to detect and prevent the DDoS attack.
 
 Installation Steps:
